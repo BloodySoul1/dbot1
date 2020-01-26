@@ -1,0 +1,12 @@
+-----Basic tab------
+Threads: 0
+Nicks Mode: RANDOM
+Spam (x): 2
+
+-----Advanced tab------
+Stay: 31 ( MAX )
+Bot Movement: YES
+ProxyMode: BOTH (!!!IMPORTANT!!!)
+Register CMD: /register Death123Bot
+Login CMD: /login Death123Bot Death123Bot
+MultiJoin: 2
